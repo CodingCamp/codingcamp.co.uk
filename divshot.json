@@ -1,0 +1,7 @@
+{
+"name":"codingcamp",
+"root":"/",
+"clean_urls":true,
+"routes":{
+"**": "index.html"
+}
