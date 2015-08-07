@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    text-decoration: underline;
+    line-height: 30px;
+    background: url("http://content.turbine.com/sites/www.lotro.com/f2p/images/page_bg.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #00CC66;
+    font-family: Arial;
+}
+p{
+    font-size: 24px;
+}
+textarea{
+  width:400px;
+}
+input {
+    border: 0;
+    padding: 12px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    background: limegreen;
+    color: black;
+}
+
+#canvas{
+  border-width:5px;
+  border-color:red;
+  border-style:dashed; 
+}
